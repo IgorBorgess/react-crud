@@ -1,19 +1,14 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Arthur Oliveira",
-      "email": "aoliveira@gmail.com"
+      "name": "Teste",
+      "email": "teste@teste.com",
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Maria Júlia da Silva",
-      "email": "mjs@gmail.com"
-    },
-    {
-      "name": "Ana Silva",
-      "email": "anasilva@negocio.com.br",
-      "id": 3
+      "name": "Teste 2 - Alterado",
+      "email": "teste2@teste.com",
+      "id": 2
     }
   ]
 }
